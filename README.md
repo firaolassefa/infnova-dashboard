@@ -4,7 +4,7 @@ This project is my solution for the INFNOVA Technologies Frontend Internship Cha
 
 ## Live Demo
 
-**Demo:** _Add your deployed Vercel URL here_
+
 
 ---
 
