@@ -72,7 +72,7 @@ lib/
 ### Installation
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/firaolassefa/infnova-dashboard.git
 cd infnova-dashboard
 npm install --legacy-peer-deps
 npm run dev
